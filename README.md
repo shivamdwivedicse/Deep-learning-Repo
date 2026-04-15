@@ -1,4 +1,4 @@
-#Deep Learning Journey
+Deep Learning Journey
 
 This repository documents my daily learning in Deep Learning.
 
